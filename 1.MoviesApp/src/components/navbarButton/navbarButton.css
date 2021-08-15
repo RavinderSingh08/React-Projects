@@ -1,0 +1,13 @@
+.navbar-button {
+    padding: 0px 15px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-weight: 600;
+}
+
+.navbar-button:hover{
+    background-color: rgb(246, 246, 246);
+}
